@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @sumit-kale a graduate student at Purdue University working with Dr. Sabre Kais (https://www.chem.purdue.edu/kais/)
-- 👀 I’m interested in Quantum Information and Computing
+- 👋 Hi, I’m @sumit-kale a PhD student at Purdue University working with Prof. Sabre Kais (https://www.chem.purdue.edu/kais/)
+- ✨ I've also worked as a Quantum Applications intern with IBM Quantum in Summers 2022 
+- 👀 I’ve worked on Quantum Information and Computing
 - 🌱 I’m currently learning Classical\Quantum Machine Learning
 - 💞️ I’m looking to collaborate on QML\Quantum Algorithms
 - 📫 How to reach me kale6@purdue.edu 
