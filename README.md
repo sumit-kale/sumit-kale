@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sumit-kale a PhD student at Purdue University working with Prof. Sabre Kais (https://www.chem.purdue.edu/kais/)
+- 👋 Hi, I’m @sumit-kale a Quantum Software Support Engineer at IBM Quantum
 - ✨ I've also worked as a Quantum Applications intern with IBM Quantum in Summers 2022
 - ✨ I came back to IBM as a Quantum Applications Research intern in Summers 2023 
 - 👀 I’ve worked on Quantum Information and Computing
