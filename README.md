@@ -4,7 +4,7 @@
 - 👀 I’ve worked on Quantum Information and Computing
 - 🌱 I’m currently learning Classical\Quantum Machine Learning
 - 💞️ I’m looking to collaborate on QML\Quantum Algorithms\Applications of QC in Chemical Physics
-- 📫 How to reach me kale6@purdue.edu 
+- 📫 How to reach me sumit.suresh.kale1@ibm.com
 
 <!---
 sumit-kale/sumit-kale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
